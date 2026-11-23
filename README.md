@@ -12,7 +12,7 @@ Access community scores, star ratings, recent review trends and total review cou
 
 **Version 1.5.10** | Windows | Powered by Steam | Free and Open Source
 
-[Download Plugin](https://github.com/Tiixy/ReviewLens) · [Report an Issue](https://github.com/Tiixy/ReviewLens/issues)
+[Download Plugin](https://github.com/Tiixy/ReviewLens) · [Official Website](https://tiixy.github.io/ReviewLens/) · [Report an Issue](https://github.com/Tiixy/ReviewLens/issues)
 
 <img src="docs/assets/reviewlens-steam-ui.png" alt="ReviewLens showing the four statistics in Steam" width="820">
 
