@@ -10,7 +10,7 @@ ReviewLens is a lightweight Millennium plugin that integrates Steam community ra
 
 Access community scores, star ratings, recent review trends and total review counts through a clean, compact interface.
 
-**Version 1.5.10** | Windows | Powered by Steam | Free and Open Source
+**Windows | Powered by Steam | Free and Open Source**
 
 [Download Plugin](https://github.com/Tiixy/ReviewLens) · [Official Website](https://tiixy.github.io/ReviewLens/) · [Report an Issue](https://github.com/Tiixy/ReviewLens/issues)
 
