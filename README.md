@@ -4,15 +4,15 @@
 
 # ReviewLens
 
-Steam reviews, at a glance.
+**Steam reviews, simplified.**
 
-Displays Steam community scores, star ratings, recent review trends and review counts in your library.
+ReviewLens is a lightweight Millennium plugin that integrates Steam community ratings and review statistics directly into your game library.
 
-A minimal [Millennium](https://steambrew.app/) plugin powered by Valve's public Steam data.
+Access community scores, star ratings, recent review trends and total review counts through a clean, compact interface.
 
-**v1.5.10** · **Windows** · **Steam API only** · **No API key**
+**Version 1.5.10** | Windows | Powered by Steam | Free and Open Source
 
-[Download .star](./reviewlens-1.5.10.star) · [Project website](./docs/) · [Report an issue](../../issues)
+[Download Plugin](https://github.com/Tiixy/ReviewLens) · [Official Website](https://tiixy.github.io/ReviewLens/) · [Report an Issue](https://github.com/Tiixy/ReviewLens/issues)
 
 <img src="docs/assets/reviewlens-steam-ui.png" alt="ReviewLens showing the four statistics in Steam" width="820">
 
