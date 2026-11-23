@@ -1,0 +1,20 @@
+{
+  "name": "reviewlens-millennium",
+  "private": true,
+  "version": "1.5.10",
+  "description": "Displays Steam community scores, star ratings, recent review trends and review counts in your library.",
+  "scripts": {
+    "build": "starlight pack",
+    "dev": "starlight watch",
+    "prepare": "starlight lsp",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.1",
+    "@types/react-dom": "19.1.1",
+    "@steambrew/starlight": "^1.1.6",
+    "@steambrew/client": "^5.8.4",
+    "@steambrew/api": "^5.8.4",
+    "typescript": "^5.8.3"
+  }
+}
