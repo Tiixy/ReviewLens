@@ -53,6 +53,9 @@ The repository contains Millennium/Starlight frontend and Lua backend source, pl
 
 ## Project
 
-Created by Ticksy. ReviewLens is an independent community plugin, not affiliated with Valve or Steam.
+ReviewLens was created by Ticksy with the assistance of ChatGPT and AI-supported development tools. The project follows an AI assisted development approach, combining human direction, iterative testing and AI generated code to deliver a lightweight Steam Library enhancement.
 
-Please report bugs and include your Millennium version, Steam client version, and a screenshot or console error when possible.
+ReviewLens is an independent, community developed Millennium plugin and is not affiliated with, endorsed by or officially supported by Valve or Steam.
+
+## **Bug Reports & Feedback**
+Contributions, suggestions and bug reports are welcome. When reporting an issue, please include your Millennium version, Steam client version and any relevant screenshots or console errors.
